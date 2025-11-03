@@ -1,2 +1,2 @@
-# -CycleCountApp-NiceGUI
+# CycleCountApp-NiceGUI
 Cycle Counting App
