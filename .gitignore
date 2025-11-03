@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.env.local
+app/data/*.csv
+app/data/*.log
+app/static/*.mp3
+*.sqlite
+.DS_Store
